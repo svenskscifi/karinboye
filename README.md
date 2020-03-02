@@ -5,12 +5,12 @@ In this repository you can find files and links connected to the project "Ammase
 
 Shortly, the GPT-2 model, especielly the GPT2-simple implementation, which can be find here: www has been used, and retrained in 4 steps. All training has taken place on google cloud computing, with a standard GPU setting using an NVIDIA Tesla K80 GPU machine. The GPT training rate was set to default for the first two steps, and set to a slower rate for the last two.
 
-Step 1
+# Step 1
 
 Training about 20 000 epochs on generic swedish texts (trainingdata 1) taken from Swedish Wikipedia and Svenska Språkinstitutet. The following datasets has been used:
 
 
-Step 2
+# Step 2
 
 After this the network was directly trained a smaller dataset of selected swedish literature from Project Runeberg (trainingdata 2), see "listoftrainingdata.txt" for a full list of selected works or the trainingdata2.txt for a combined textfile with all texts.
 
@@ -25,12 +25,12 @@ And after training the network for 20 000 epochs (which took about 17 hours), th
   	den är bara som en backe, ingen kan släcka det, och du behagar endast säga mer.
 
 
-Step 3
+# Step 3
 
 The network was then trained on a set of selected swedish poems (trainingdata3.txt), for 2000 cycles.
 
 
-Step 4
+# Step 4
 
 And finally the network was trained only on Karin Boye Poems (trainingdata4.txt), for 2000 cycles.
 Example of results during this phase are shown below.

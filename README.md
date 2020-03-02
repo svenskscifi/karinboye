@@ -14,7 +14,7 @@ Training about 20 000 epochs on generic swedish texts (trainingdata 1) webscrape
 
 # Step 2
 
-After this the network was directly trained a smaller dataset of selected swedish literature from <a href="http://runeberg.org">Project Runeberg</a> (trainingdata 2), approximalty 100 MB. See "listoftrainingdata.txt" for a full list of selected works or the trainingdata2.txt for a combined textfile with all texts.
+After this the network was directly trained a smaller dataset of selected swedish literature from <a href="http://runeberg.org">Project Runeberg</a> (trainingdata 2), approximatly 100 MB of text. See "listoftrainingdata.txt" for a full list of selected works or the trainingdata2.txt for a combined textfile with all texts.
 
 After 5000 epochs, the network generates swedish text like:
 

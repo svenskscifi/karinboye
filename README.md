@@ -5,7 +5,8 @@ In this repository you can find files and links connected to the project "Ammase
 
 Due to the size of some of the datasets and the trained model, not all files are uploaded on this repository, but instead links to the files are provided below.
 
-Shortly, the GPT-2 model, especielly the GPT2-simple implementation, which can installed easily as follows:
+The pretrained GPT-2 model, especielly the GPT2-simple implementation was used. GPT-2 simple can easily be used to retrained existing models and to use traiend model for generating text.
+GPT-2 simple can  be installed as follows:
 
 	pip3 install gpt-2-simple
 

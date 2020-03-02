@@ -29,12 +29,12 @@ And after training the network for 20 000 epochs (which took about 17 hours), th
 
 # Step 3
 
-The network was then trained on a set of selected swedish poems (trainingdata3.txt), for 2000 cycles.
+The network was then trained on a set of selected swedish poems (trainingdata3.txt), for 2000 epochs.
 
 
 # Step 4
 
-And finally the network was trained only on Karin Boye Poems (trainingdata4.txt), for 2000 cycles.
+And finally the network was trained only on Karin Boye Poems (trainingdata4.txt), for 2000 epochs.
 Example of results during this phase are shown below.
 
 500 epochs

@@ -16,13 +16,13 @@ After this the network was directly trained a smaller dataset of selected swedis
 
 After 5000 epochs, the network generates swedish text like:
 
-  Han blev nästan sällan värkande, och fällde en man, som rörde sig in i den myckenhet, 
-  att han skulle kunna vässa spelmännen vid detta rum.
+  	Han blev nästan sällan värkande, och fällde en man, som rörde sig in i den myckenhet, 
+  	att han skulle kunna vässa spelmännen vid detta rum.
 
 And after training the network for 20 000 epochs (which took about 17 hours), the network generates text like:
 
 	Hör! Nu säger vi så: det är en skugga, en frisk och djupt dundrande, 
-  den är bara som en backe, ingen kan släcka det, och du behagar endast säga mer.
+  	den är bara som en backe, ingen kan släcka det, och du behagar endast säga mer.
 
 
 Step 3
@@ -37,23 +37,23 @@ Example of results during this phase are shown below.
 
 500 epochs
 
-  Du blommar och guld, guld 
-  Väntar på långt innan mörker 
-  och stelnad känner du döden. 
+  	Du blommar och guld, guld 
+  	Väntar på långt innan mörker 
+  	och stelnad känner du döden. 
 
 1 000 epochs
 
 	Vacker är måsarna, 
-  lösta från resorna
-  av himlafurstarnas ängel.
+  	lösta från resorna
+  	av himlafurstarnas ängel.
 
 2 000 epochs
 
 	Jag ville veta, vad som väntade
-  de döda har sökt oss
-  i sömn låg vi hemma. 
-  Ammaseus horisont 
-  Ammaseus Horisont
+       	de döda har sökt oss
+       	i sömn låg vi hemma. 
+  	Ammaseus horisont 
+  	Ammaseus Horisont
   
   
  More example of generated poems, can be found in the textfile (exampleresults.txt).

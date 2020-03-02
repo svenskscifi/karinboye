@@ -56,6 +56,8 @@ Example of results during this phase are shown below.
   	Ammaseus Horisont
   
   
+  
+  
  More example of generated poems, can be found in the textfile (exampleresults.txt).
 
 

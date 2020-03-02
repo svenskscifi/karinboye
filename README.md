@@ -9,12 +9,12 @@ Shortly the pretrained GPT-2 model was retrained in four steps (see below). All 
 
 # Step 1
 
-Training about 20 000 epochs on generic swedish texts (trainingdata 1) taken from Swedish Wikipedia and Svenska Språkinstitutet. The following datasets has been used:
+Training about 20 000 epochs on generic swedish texts (trainingdata 1) webscraped from Swedish Wikipedia, corresponding to approximatly 10 GB of text.
 
 
 # Step 2
 
-After this the network was directly trained a smaller dataset of selected swedish literature from Project Runeberg (trainingdata 2), see "listoftrainingdata.txt" for a full list of selected works or the trainingdata2.txt for a combined textfile with all texts.
+After this the network was directly trained a smaller dataset of selected swedish literature from <a href="http://runeberg.org">Project Runeberg</a> (trainingdata 2), approximalty 100 MB. See "listoftrainingdata.txt" for a full list of selected works or the trainingdata2.txt for a combined textfile with all texts.
 
 After 5000 epochs, the network generates swedish text like:
 

@@ -5,12 +5,7 @@ In this repository you can find files and links connected to the project <a href
 
 Due to the size of some of the datasets and the trained model, not all files are uploaded on this repository, but instead links to the files are provided below.
 
-The pretrained GPT-2 model, especielly the GPT2-simple implementation was used. GPT-2 simple can easily be used to retrained existing models and to use traiend model for generating text.
-GPT-2 simple can  be installed as follows:
-
-	pip3 install gpt-2-simple
-
-A full repository of the GPT-2 simple can be found here (https://github.com/minimaxir/gpt-2-simple/) was used, and retrained in four steps (see below). All training has taken place on google cloud computing, with a standard GPU setting using an NVIDIA Tesla K80 GPU machine. The training rate was set to default for the first two steps, and set to a slower rate for the last two.
+Shortly the pretrained GPT-2 model was retrained in four steps (see below). All training has taken place on google cloud computing, with a standard GPU setting using an NVIDIA Tesla K80 GPU machine. The training rate was set to default for the first two steps, and set to a slower rate for the last two.
 
 # Step 1
 

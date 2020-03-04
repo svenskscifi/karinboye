@@ -1,7 +1,7 @@
 # karinboye
 Training GPT-2 for generating Karin Boye Poems
 
-In this repository you can find files and links connected to the project <a href="www.svenskscifi.se/ammaseus.html">Ammaseus Horisont</a>, where Open AI:s pretrained 355 M parameter GPT-2 model has been retrained to generate Swedish Poems in the style of Karin Boye. The GPT-2 model was published in the paper <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf">Language Models are Unsupervised Multitask Learners</a>, (Radford et al., 2019), and a full repository with runable code and models from that paper can be found here: https://github.com/openai/gpt-2
+In this repository you can find files and links connected to the project <a href="http://www.svenskscifi.se/ammaseus.html">Ammaseus Horisont</a>, where Open AI:s pretrained 355 M parameter GPT-2 model has been retrained to generate Swedish Poems in the style of Karin Boye. The GPT-2 model was published in the paper <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf">Language Models are Unsupervised Multitask Learners</a>, (Radford et al., 2019), and a full repository with runable code and models from that paper can be found here: https://github.com/openai/gpt-2
 
 Due to the size of some of the datasets and the trained model, not all files are uploaded on this repository, but instead links to the files are provided below.
 

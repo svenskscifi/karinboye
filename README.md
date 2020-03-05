@@ -64,7 +64,7 @@ Example of results during this phase are shown below.
  
  # Test the trained model
  
-You can download the final model here <a href="">PretrainedGPT-2KarinBoye</a> and then test it by running it at this free google colab resource <a href="https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce">Run a GPT-2 Text-Generating Model</a>, by using these simple instructions (you have to have a google drive account with at least 10 GB of free storage to run this.
+You can download the final model here <a href="">PretrainedGPT-2KarinBoye</a> and then test it by running it at this free google colab resource <a href="https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce">Run a GPT-2 Text-Generating Model</a>, by using the instructions below (you have to have a google drive account with at least 10 GB of free storage to run this).
 
 1. Copy the trained model above to your google drive.
 2. Open the link to the <a href="https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce">colab</a> above in a chrome webbrowser

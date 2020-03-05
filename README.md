@@ -21,7 +21,7 @@ After 5000 epochs, the network generates swedish text like:
   	Han blev nästan sällan värkande, och fällde en man, som rörde sig in i den myckenhet, 
   	att han skulle kunna vässa spelmännen vid detta rum.
 
-And after training the network for 20 000 epochs (which took about 17 hours), the network generates text like:
+And after training the network for 18 000 epochs, the network generates text like:
 
 	Hör! Nu säger vi så: det är en skugga, en frisk och djupt dundrande, 
   	den är bara som en backe, ingen kan släcka det, och du behagar endast säga mer.
@@ -50,7 +50,7 @@ Example of results during this phase are shown below. A list of the selected wor
   	lösta från resorna
   	av himlafurstarnas ängel.
 
-2 000 epochs
+1 800 epochs
 
 	Jag ville veta, vad som väntade
        	de döda har sökt oss

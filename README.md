@@ -9,7 +9,7 @@ Shortly the pretrained GPT-2 model was retrained in four steps (see below). All 
 
 # Step 1
 
-Training about 20 000 epochs on generic swedish texts from Swedish Wikipedia, corresponding to approximatly 10 GB of text.
+Training about 20 000 epochs on generic swedish texts from Swedish Wikipedia, corresponding to approximatly 10 GB of text. A compressed xml dump can be downloaded from Svenska Språkbanken at: <a href="https://spraakbanken.gu.se/en/resources/wikipedia-sv">Wikipedia-sv</a>
 
 
 # Step 2

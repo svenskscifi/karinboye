@@ -9,12 +9,12 @@ Shortly the pretrained GPT-2 model was retrained in four steps (see below). All 
 
 # Step 1
 
-Training about 20 000 epochs on generic swedish texts (trainingdata 1) webscraped from Swedish Wikipedia, corresponding to approximatly 10 GB of text.
+Training about 20 000 epochs on generic swedish texts (trainingdata 1) from Swedish Wikipedia, corresponding to approximatly 10 GB of text.
 
 
 # Step 2
 
-After this the network was directly trained a smaller dataset of selected swedish literature from <a href="http://runeberg.org">Project Runeberg</a> (trainingdata 2), approximatly 100 MB of text. See "listoftrainingdata.txt" for a full list of selected works or the trainingdata2.txt for a combined textfile containing all texts.
+After this the network was directly trained on a smaller dataset of selected swedish literature from <a href="http://runeberg.org">Project Runeberg</a> (<i>Trainingdata2.txt</i>), approximatly 90 MB of text. See <i>listoftrainingdata2.txt</i> for a full list of the selected works.
 
 After 5000 epochs, the network generates swedish text like:
 
@@ -29,13 +29,13 @@ And after training the network for 20 000 epochs (which took about 17 hours), th
 
 # Step 3
 
-The network was then trained on a set of selected swedish poems (trainingdata3.txt), for 2000 epochs.
+The network was then trained on a set of selected swedish poems (<i>Trainingdata3.txt</i>), for 2000 epochs. A list of the selected works can be found in <i>listoftrainingdata3.txt</i>.
 
 
 # Step 4
 
-And finally the network was trained only on Karin Boye Poems (trainingdata4.txt), for 2000 epochs.
-Example of results during this phase are shown below.
+And finally the network was trained only on Karin Boye Poems <i>trainingdata4.txt</i>, for 2000 epochs.
+Example of results during this phase are shown below. A list of the selected works can be found in <i>listoftrainingdata4.txt</i>.
 
 500 epochs
 
@@ -60,7 +60,7 @@ Example of results during this phase are shown below.
   
   
   
- More examples of generated poems, can be found in the textfile (exampleresults.txt).
+ More examples of generated poems, can be found in the textfile: <i>exampleresults.txt</i>
  
  # Test the trained model
  

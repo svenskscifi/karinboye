@@ -68,7 +68,7 @@ You can download the final model here <a href="">PretrainedGPT-2KarinBoye</a> an
 
 1. Copy the trained model above to your google drive.
 2. Open the link to the <a href="https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce">colab</a> above in a chrome webbrowser
-2. Run the code cells one and two in order to initialize tensorflow and allocated a free CPU resource
+2. Run the 1st and 2nd cells in order to initialize tensorflow and allocated a free CPU resource from google colab.
 3. Run the 3rdcell with the 355M model as: gpt2.download_gpt2(model_name="355M")
 4. Run the 4th cell, mounting your google drive and follow instructions.
 5. Jump to the 9th cell "Load a Trained model Checkpoint" and run it with "gpt2.copy_checkpoint_from_gdrive(run_name='PretrainedGPT-2KarinBoye') and wait for the model to upload.

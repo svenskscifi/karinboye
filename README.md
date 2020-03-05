@@ -29,7 +29,7 @@ And after training the network for 20 000 epochs (which took about 17 hours), th
 
 # Step 3
 
-The network was then trained on a set of selected swedish poems (<i>Trainingdata3.txt</i>), for 2000 epochs. A list of the selected works can be found in <i>listoftrainingdata3.txt</i>.
+The network was then trained on a set of selected swedish poems <a href="https://github.com/svenskscifi/karinboye/blob/master/Trainingdata3.txt">Trainingdata3.txt</a>, for 2000 epochs. A list of the selected works can be found in <a href="https://github.com/svenskscifi/karinboye/blob/master/listoftrainingdata3.txt">listoftrainingdata3.txt</a>
 
 
 # Step 4

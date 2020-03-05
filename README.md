@@ -34,8 +34,9 @@ The network was then trained on a set of selected swedish poems <a href="https:/
 
 # Step 4
 
-And finally the network was trained only on Karin Boye Poems <i>trainingdata4.txt</i>, for 2000 epochs.
-Example of results during this phase are shown below. A list of the selected works can be found in <i>listoftrainingdata4.txt</i>.
+And finally the network was trained only on Karin Boye Poems <a href="https://github.com/svenskscifi/karinboye/blob/master/Trainingdata4.txt">Trainingdata4.txt</a>, for 2000 epochs.
+Example of results during this phase are shown below. A list of the selected works can be found in <a href="https://github.com/svenskscifi/karinboye/blob/master/listoftrainingdata4.txt">listoftrainingdata4.txt</a>
+
 
 500 epochs
 
@@ -59,8 +60,10 @@ Example of results during this phase are shown below. A list of the selected wor
   
   
   
-  
- More examples of generated poems, can be found in the textfile: <i>exampleresults.txt</i>
+More examples of generated poems, can be found in the textfile: <a href="https://github.com/svenskscifi/karinboye/blob/master/exampleresults.txt">exampleresults.txt</a>
+ 
+ 
+
  
  # Test the trained model
  

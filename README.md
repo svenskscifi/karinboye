@@ -73,12 +73,11 @@ You can download the final model here <a href="">PretrainedGPT-2KarinBoye</a> an
 2. Open the link to the <a href="https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce">colab</a> above in a chrome webbrowser
 2. Make a local copy of the colab in your google drive: <i>File->Save a copy in drive</i>.
 3. Run the 1st and 2nd cells in order to initialize tensorflow and allocated a free GPU resource from google colab.
-4. Run the 3rd cell with the 355M model as <code>gpt2.download_gpt2(model_name="355M")</code>
-5. Run the 4th cell, mounting your google drive and follow instructions.
-6. Jump to the 9th cell <i>Load a Trained model Checkpoint</i> and run it with:
+4. Run the 4th cell, mounting your google drive and follow instructions.
+5. Jump to the 9th cell <i>Load a Trained model Checkpoint</i> and run it with:
 <code>gpt2.copy_checkpoint_from_gdrive(run_name='PretrainedGPT-2KarinBoye')</code> and wait for the model to upload.
-7. Run the 10th cell by <code> gpt2.load_gpt2(sess, run_name='PretrainedGPT-2KarinBoye')</code>
-8. Run the 11th cell <i>Generate Text From The Trained Model</i>
+6. Run the 10th cell by <code> gpt2.load_gpt2(sess, run_name='PretrainedGPT-2KarinBoye')</code>
+7. Run the 11th cell <i>Generate Text From The Trained Model</i>
 
 If you want to generate output with a specific seed and/or control the temperature of the output jump to the next cell <i></i>. Lower temperature will give more consistent but less creative output, whereas higher temeprature will prodouce less coherent but more creative results. For the results in <i>exampleresults.txt</i> a temperature of 0.8 was used.
 
